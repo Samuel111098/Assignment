@@ -1,0 +1,22 @@
+.mission {
+	display: inline-block;
+	width: 40%;
+	margin: 6% 0% 3% 0%;
+	padding: 0% 5%;
+	text-align: center;
+	justify-content: center;
+}
+.mtext {
+	color: black;
+	font-size: 3em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	margin-bottom: 7%;
+}
+.mpara {
+	font-size: 1.6em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	margin-bottom: 5%;
+	line-height: 1.4em;
+}

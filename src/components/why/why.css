@@ -1,0 +1,22 @@
+.why {
+	display: inline-block;
+	width: 40%;
+	margin: 6% 0% 3% 0%;
+	padding: 0% 5%;
+	text-align: center;
+	justify-content: center;
+}
+.whytext {
+	color: black;
+	font-size: 3em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	margin-bottom: 7%;
+}
+.whypara {
+	font-size: 1.4em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	margin-bottom: 5%;
+	line-height: 1.4em;
+}

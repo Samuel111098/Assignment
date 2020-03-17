@@ -1,0 +1,26 @@
+.intro {
+	display: inline-block;
+	width: 45%;
+	margin: 3% 0% 3% 0%;
+	padding: 0%;
+	text-align: center;
+}
+.introtext {
+	color: black;
+	font-size: 3em;
+	margin-bottom: 7%;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+}
+.intropara {
+	font-size: 1.4em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	margin-bottom: 5%;
+	line-height: 1.4em;
+}
+.main {
+	box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.13);
+	width: 80%;
+	margin: auto 0;
+}

@@ -1,0 +1,22 @@
+.k {
+	display: inline-block;
+	width: 45%;
+	margin: 3% 0% 3% 0%;
+	padding: 0%;
+	text-align: center;
+}
+.keytext {
+	color: black;
+	font-size: 3em;
+	margin-bottom: 7%;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+}
+.keypara {
+	font-size: 1.4em;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana,
+		sans-serif;
+	margin-bottom: 5%;
+	text-align: left;
+	line-height: 1.4em;
+}
